@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Im currently working on HTML CSS, <br>and I know a little bit of python.<br>Im so interested in learning new things.
 
 
